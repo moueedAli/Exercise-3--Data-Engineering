@@ -1,0 +1,108 @@
+[
+    {
+        "city":"San Francisco",
+        "country":"USA",
+        "date":"2020-05-01",
+        "pollen_concentration":59,
+        "pollution":68.1
+    },
+    {
+        "city":"San Francisco",
+        "country":"USA",
+        "date":"2021-05-01",
+        "pollen_concentration":59,
+        "pollution":66.3},
+    {
+        "city":"San Francisco",
+        "country":"USA",
+        "date":"2022-05-01",
+        "pollen_concentration":59,
+        "pollution":64.9
+    },
+    {
+        "city":"San Francisco",
+        "country":"USA",
+        "date":"2023-05-01",
+        "pollen_concentration":59,
+        "pollution":65.8
+    },
+    {
+        "city":"San Francisco",
+        "country":"USA",
+        "date":"2024-05-01",
+        "pollen_concentration":59,
+        "pollution":63.7
+    },
+
+    {
+        "city":"New York",
+        "country":"USA",
+        "date":"2020-05-01",
+        "pollen_concentration":125,
+        "pollution":92.5
+    },
+    {
+        "city":"New York",
+        "country":"USA",
+        "date":"2021-05-01",
+        "pollen_concentration":126,
+        "pollution":90.7
+    },
+    {
+        "city":"New York",
+        "country":"USA",
+        "date":"2022-05-01",
+        "pollen_concentration":127,
+        "pollution":88.8
+    },
+    {
+        "city":"New York",
+        "country":"USA",
+        "date":"2023-05-01",
+        "pollen_concentration":127,
+        "pollution":87.4
+    },
+    {
+        "city":"New York",
+        "country":"USA",
+        "date":"2024-05-01",
+        "pollen_concentration":128,
+        "pollution":86.1
+    },
+
+    {
+        "city":"London",
+        "country":"UK",
+        "date":"2020-05-01",
+        "pollen_concentration":101,
+        "pollution":98.0
+    },
+    {
+        "city":"London",
+        "country":"UK",
+        "date":"2021-05-01",
+        "pollen_concentration":101,
+        "pollution":95.9
+    },
+    {
+        "city":"London",
+        "country":"UK",
+        "date":"2022-05-01",
+        "pollen_concentration":102,
+        "pollution":93.4
+    },
+    {
+        "city":"London",
+        "country":"UK",
+        "date":"2023-05-01",
+        "pollen_concentration":102,
+        "pollution":91.2
+    },
+    {
+        "city":"London",
+        "country":"UK",
+        "date":"2024-05-01",
+        "pollen_concentration":102,
+        "pollution":89.4
+    }
+]

@@ -1,0 +1,199 @@
+[
+    {
+        "city": "San Francisco",
+        "country": "USA",
+        "coordinates": {
+            "lat": 37.77,
+            "lon": -122.42
+        },
+        "date": "2020-05-01",
+        "temperature_c": 15.5,
+        "humidity": 72,
+        "rain_mm": 5.2,
+        "wind_kmh": 12.0
+    },
+    {
+        "city": "San Francisco",
+        "country": "USA",
+        "coordinates": {
+            "lat": 37.77,
+            "lon": -122.42
+        },
+        "date": "2021-05-01",
+        "temperature_c": 16.1,
+        "humidity": 70,
+        "rain_mm": 3.0,
+        "wind_kmh": 13.5
+    },
+    {
+        "city": "San Francisco",
+        "country": "USA",
+        "coordinates": {
+            "lat": 37.77,
+            "lon": -122.42
+        },
+        "date": "2022-05-01",
+        "temperature_c": 16.8,
+        "humidity": 69,
+        "rain_mm": 2.5,
+        "wind_kmh": 14.0
+    },
+    {
+        "city": "San Francisco",
+        "country": "USA",
+        "coordinates": {
+            "lat": 37.77,
+            "lon": -122.42
+        },
+        "date": "2023-05-01",
+        "temperature_c": 17.0,
+        "humidity": 68,
+        "rain_mm": 2.8,
+        "wind_kmh": 13.0
+    },
+    {
+        "city": "San Francisco",
+        "country": "USA",
+        "coordinates": {
+            "lat": 37.77,
+            "lon": -122.42
+        },
+        "date": "2024-05-01",
+        "temperature_c": 17.2,
+        "humidity": 67,
+        "rain_mm": 2.1,
+        "wind_kmh": 12.5
+    },
+
+    {
+        "city": "New York",
+        "country": "USA",
+        "coordinates": {
+            "lat": 40.71,
+            "lon": -74.00
+        },
+        "date": "2020-05-01",
+        "temperature_c": 18.0,
+        "humidity": 65,
+        "rain_mm": 7.5,
+        "wind_kmh": 10.0
+    },
+    {
+        "city": "New York",
+        "country": "USA",
+        "coordinates": {
+            "lat": 40.71,
+            "lon": -74.00
+        },
+        "date": "2021-05-01",
+        "temperature_c": 19.5,
+        "humidity": 68,
+        "rain_mm": 4.2,
+        "wind_kmh": 9.8
+    },
+    {
+        "city": "New York",
+        "country": "USA",
+        "coordinates": {
+            "lat": 40.71,
+            "lon": -74.00
+        },
+        "date": "2022-05-01",
+        "temperature_c": 20.0,
+        "humidity": 66,
+        "rain_mm": 3.7,
+        "wind_kmh": 10.2
+    },
+    {
+        "city": "New York",
+        "country": "USA",
+        "coordinates": {
+            "lat": 40.71,
+            "lon": -74.00
+        },
+        "date": "2023-05-01",
+        "temperature_c": 20.5,
+        "humidity": 67,
+        "rain_mm": 3.9,
+        "wind_kmh": 9.5
+    },
+    {
+        "city": "New York",
+        "country": "USA",
+        "coordinates": {
+            "lat": 40.71,
+            "lon": -74.00
+        },
+        "date": "2024-05-01",
+        "temperature_c": 21.2,
+        "humidity": 64,
+        "rain_mm": 4.1,
+        "wind_kmh": 9.9
+    },
+
+    {
+        "city": "London",
+        "country": "UK",
+        "coordinates": {
+            "lat": 51.50,
+            "lon": -0.12
+        },
+        "date": "2020-05-01",
+        "temperature_c": 14.2,
+        "humidity": 80,
+        "rain_mm": 6.1,
+        "wind_kmh": 11.5
+    },
+    {
+        "city": "London",
+        "country": "UK",
+        "coordinates": {
+            "lat": 51.50,
+            "lon": -0.12
+        },
+        "date": "2021-05-01",
+        "temperature_c": 15.0,
+        "humidity": 78,
+        "rain_mm": 5.2,
+        "wind_kmh": 11.2
+    },
+    {
+        "city": "London",
+        "country": "UK",
+        "coordinates": {
+            "lat": 51.50,
+            "lon": -0.12
+        },
+        "date": "2022-05-01",
+        "temperature_c": 15.5,
+        "humidity": 77,
+        "rain_mm": 4.8,
+        "wind_kmh": 11.0
+    },
+    {
+        "city": "London",
+        "country": "UK",
+        "coordinates": {
+            "lat": 51.50,
+            "lon": -0.12
+        },
+        "date": "2023-05-01",
+        "temperature_c": 16.2,
+        "humidity": 75,
+        "rain_mm": 4.5,
+        "wind_kmh": 10.8
+    },
+    {
+        "city": "London",
+        "country": "UK",
+        "coordinates": {
+            "lat": 51.50,
+            "lon": -0.12
+        },
+        "date": "2024-05-01",
+        "temperature_c": 16.8,
+        "humidity": 74,
+        "rain_mm": 4.2,
+        "wind_kmh": 10.5
+    }
+]

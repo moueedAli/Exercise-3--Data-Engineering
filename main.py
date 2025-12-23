@@ -9,6 +9,7 @@ with open("data/weather_data_2.json", "r", encoding="utf-8") as weather_data2:
     pollution_and_pollen_docs = json.load(weather_data2)
 
 # Legg til .env
+mongo_uri = "mongodb+srv://moueed2701_db_user:bVKTnAGaPxXkuW1F@dataengineering.adtgztn.mongodb.net/?appName=DataEngineering"
 
 # Connect to MongoDB
 client = MongoClient(mongo_uri)
